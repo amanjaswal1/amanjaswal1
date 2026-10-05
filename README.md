@@ -2,8 +2,7 @@
 
 My interests include medium/high freq. power electronics, control methods, numerical modelling, simulation, and techno-economic analysis. 
 
-This GitHub is basically a **MOC (Map of Contents)**: 
-- a cleaned-up log containing some of my work and the methods I've learned along the way.
+This GitHub is basically a **MOC (Map of Contents)**: a cleaned-up log containing some of my work and the methods I've learned along the way.
 
 #### Power electronics
 | Project | What it shows |
