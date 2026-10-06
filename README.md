@@ -7,5 +7,5 @@ This GitHub is basically a **MOC (Map of Contents)**: a cleaned-up log containin
 #### Power electronics
 | Project | What it shows |
 |---|---|
-%% | [**SHE-angle-solver**](https://github.com/amanjaswal1/SHE-angle-solver) | Nonlinear equations: Newton's method with an analytic Jacobian, continuation over every solution branch, THD ranking | %%
+| [**SHE-angle-solver**](https://github.com/amanjaswal1/SHE-angle-solver) | Nonlinear equations: Newton's method with an analytic Jacobian, continuation over every solution branch, THD ranking | 
 | [**phase-shift-estimator**](https://github.com/amanjaswal1/Phase_Shift_Estimator) | A real-time correlation-based phase detector, with its PWM limitation found and fixed |
